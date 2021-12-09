@@ -1,2 +1,2 @@
 # test
-GitHub test
+GitHub test (Coursera course)
